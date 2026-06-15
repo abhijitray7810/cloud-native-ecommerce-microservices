@@ -138,7 +138,7 @@ Service Router
 
 ## 📁 Project Structure
 
-```
+``` 
 PodPlate-Platform/
 ├── services/                    # Backend microservices
 │   ├── api-gateway/            # API Gateway (port 3000)
