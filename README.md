@@ -15,7 +15,7 @@ A production-grade, microservices-based e-commerce platform built with Node.js (
 - [Features](#-features)
 - [Architecture](#-architecture)
 - [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
+- [Project Structure](#-project-structure) 
 - [Setup Instructions](#-setup-instructions)
 - [API Overview](#-api-overview)
 - [Testing](#-testing)
