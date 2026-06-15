@@ -5,7 +5,7 @@ A production-grade, microservices-based e-commerce platform built with Node.js (
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green?style=flat-square&logo=node.js) 
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-7.0-red?style=flat-square&logo=redis)
+![Redis](https://img.shields.io/badge/Redis-7.0-red?style=flat-square&logo=redis) 
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
  
 --- 
