@@ -308,7 +308,7 @@ Production: https://api.yourdomain.com/api
 | GET | `/api/products/:id` | Get single product | No |
 | POST | `/api/products` | Create product | Admin |
 | PUT | `/api/products/:id` | Update product | Admin |
-
+ 
 ### Cart Endpoints
 
 | Method | Endpoint | Description | Auth Required |
